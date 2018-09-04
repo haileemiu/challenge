@@ -5,3 +5,7 @@
 .toggle-color {
   background-color: yellow;
 }
+
+div .new-row {
+  margin: 5px;
+}
