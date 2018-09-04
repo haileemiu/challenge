@@ -8,11 +8,11 @@
 
 - [x] Inside the <div> element created in step two, append two <button> elements with text of "Swap" & "Delete".
 
-- [ ] In a CSS file, any <div> created using the "Generate" button should start with red as it's background-color.
+- [x] In a CSS file, any <div> created using the "Generate" button should start with red as it's background-color.
 
-- [ ] Clicking a "Swap" <button> should change its parent background-color from red to yellow (HINT: Research toggleClass).
+- [x] Clicking a "Swap" <button> should change its parent background-color from red to yellow (HINT: Research toggleClass).
 
-- [ ] Clicking the "Swap" <button> on a yellow div should turn the background-color to red.
+- [x] Clicking the "Swap" <button> on a yellow div should turn the background-color to red.
 
 - [ ] Clicking a "Delete" <button> should remove its parent <div>.
 

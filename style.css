@@ -1,3 +1,7 @@
-#newRow {
+.new-row {
   background-color: red;
+}
+
+.toggle-color {
+  background-color: yellow;
 }
