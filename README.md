@@ -14,6 +14,6 @@
 
 - [x] Clicking the "Swap" <button> on a yellow div should turn the background-color to red.
 
-- [ ] Clicking a "Delete" <button> should remove its parent <div>.
+- [x] Clicking a "Delete" <button> should remove its parent <div>.
 
-- [ ] No need to do anything beyond the challenge described above. Once you are complete, check your code into a GitHub repo and submit via this application.
+- [x] No need to do anything beyond the challenge described above. Once you are complete, check your code into a GitHub repo and submit via this application.
