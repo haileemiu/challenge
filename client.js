@@ -11,11 +11,12 @@ let timesClicked = 0;
 
 function newRow() {
   timesClicked++;
-  $('#newGenerationArea').append(
-    '<div><p class="times-clicked">' + timesClicked + '</p></div>'
-  );
+  $('#newGenerationArea').append(`
+    <div id="newRow">
+      <p class="times-clicked">` + timesClicked + `</p>
+      <button>Swap</button>
+      <button>Delete</button>
+    </div>
+    
+  `);
 }
-
-// $('.times-clicked').click(function() {
-//   $('#generate-button').html(timesClicked++);
-// })

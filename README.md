@@ -6,14 +6,14 @@
 
 - [x] Inside the <div> element you created in the previous step, create a <p> element that shows how many times you have clicked the "Generate" button from the first step.
 
-- [] Inside the <div> element created in step two, append two <button> elements with text of "Swap" & "Delete".
+- [x] Inside the <div> element created in step two, append two <button> elements with text of "Swap" & "Delete".
 
-- [] In a CSS file, any <div> created using the "Generate" button should start with red as it's background-color.
+- [ ] In a CSS file, any <div> created using the "Generate" button should start with red as it's background-color.
 
-- [] Clicking a "Swap" <button> should change its parent background-color from red to yellow (HINT: Research toggleClass).
+- [ ] Clicking a "Swap" <button> should change its parent background-color from red to yellow (HINT: Research toggleClass).
 
-- [] Clicking the "Swap" <button> on a yellow div should turn the background-color to red.
+- [ ] Clicking the "Swap" <button> on a yellow div should turn the background-color to red.
 
-- [] Clicking a "Delete" <button> should remove its parent <div>.
+- [ ] Clicking a "Delete" <button> should remove its parent <div>.
 
-- [] No need to do anything beyond the challenge described above. Once you are complete, check your code into a GitHub repo and submit via this application.
+- [ ] No need to do anything beyond the challenge described above. Once you are complete, check your code into a GitHub repo and submit via this application.
